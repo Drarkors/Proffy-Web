@@ -2,7 +2,7 @@
     <img alt="Proffy" title="Proffy" src="https://github.com/rocketseat-education/nlw-02-omnistack/raw/master/.github/logo.svg" />
 </h1>
 
-<img alt="Proffy Mobile" title="Proffy Mobile" src="https://github.com/Drarkors/Proffy-Mobile/blob/master/Proffy%20Mobile.png?raw=true" />
+<img alt="Proffy Web" title="Proffy Web" src="https://github.com/Drarkors/Proffy-Web/blob/master/Proffy_Web.png?raw=true" />
 
 ## Proffy Mobile
 Está é a versão web do projeto
@@ -11,8 +11,7 @@ Está é a versão web do projeto
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+- [React](https://reactjs.org)
 
 ## 💻 Projeto
 
@@ -23,4 +22,4 @@ Esta versão do Proffy ainda não foi finalizada e ainda serão feitas alteraç�
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.mb) para mais detalhes.
