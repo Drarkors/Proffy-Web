@@ -22,4 +22,4 @@ Esta versão do Proffy ainda não foi finalizada e ainda serão feitas alteraç�
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.mb) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
